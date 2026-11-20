@@ -12,8 +12,7 @@ Lab notes and redacted evidence from my cloud-first AI infrastructure training. 
 
 \- Lab 2: Microsoft Graph PowerShell + TenantCheck.ps1 script
 
-\- Lab 3: Git command line basics (in progress)
-
+\- Lab 3: Git command line basics (complete)
 
 
 Command cheat sheets are in the `commands` folder.
